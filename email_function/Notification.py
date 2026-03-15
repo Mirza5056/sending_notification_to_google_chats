@@ -1,0 +1,10 @@
+configs={
+    "email_notification":True,
+    "email_addresses":{
+            "receiver_email":"kamranakthar8@gmail.com",
+            "receiver_email_internal":"kamranakthar8@gmail.com",
+            "cc_list_internal":[""],
+            "cc_list":[""],
+            "cc_list":[""]
+        }   
+}
